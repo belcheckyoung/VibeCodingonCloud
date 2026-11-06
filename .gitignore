@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.db
+*.db-*
+.env
+.env.*
+config.json
+*.plist
+.openlist/
+openlist-diag.txt
